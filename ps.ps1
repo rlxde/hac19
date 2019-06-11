@@ -115,7 +115,7 @@ finally
     Clear-Host
     $frames[-1] -split "`t"
     "`n"
-    "                        Happy Scripting from PowerShell..."
+    "                        very go...lang"
     "                                 and Rick ASCII!"
     "`n`n`n"
     $player.Stop()
